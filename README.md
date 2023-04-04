@@ -47,10 +47,12 @@ Like most other lending companies, lending loans to ‘risky’ applicants is th
     Loans taken for Debt Consolidation purpose are major defaulters, followed for credit card & others. Same for Charged off loans
     60 month terms has higher numbers of defaulters
     Loan applications with 10+ years of experience are most likely to default loans.
-- Segmented Univariate Analysis
+    
+- Segmented Univariate Analysis:
     60 month term loans are more chance of defaulting loans, where as 36 month term loans have higher chance of being fully paid.
     Loans availed for purpose of Debt Consolidation have highest number of loans, also have highest number of Fully Paid and Charged Off Loans.
-- Bivariate Analysis
+    
+- Bivariate Analysis: 
     Interest Rate for Charged Off Loans is higher than the Fully Paid loans for both 36 months and 60 months term. Indicates that loans with higher interest rate are more likely to be defaulted.
     Charged Off loans are lower for Grade A, the defaulted loans steadily increase as we move from higher grades to lower grades.
     Higher Grades have lower loan amount and interest rates than lower grades, this indicates that lower the grade higher the risk and hence higher interest rates. Also, the fact that lower grades have higher loan amount sanctioned.
